@@ -1,14 +1,18 @@
 ## Introduce myself
-- 📚 Kenji Tomita
-- Try hard ui design, javascript, typescript
-- 🐦 [Twitter](https://twitter.com/jp_knj) / 💤 [Zenn](https://zenn.dev/ignorant_kenji)
+🐥 Kenji Tomita 
+
+tech: TypeScript( React, Vue, Next.js, Nuxt.js)
+
+#### 📘 See more
+- Twitter - [@jp_knj](https://twitter.com/jp_knj)  
+- Zenn - [@ignorant_kenji](https://zenn.dev/ignorant_kenji)
 
 
-### 🏆 Trophy  
+#### 🏆 Trophy  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jp-knj&theme=gruvbox&column=7&margin-w=15)](https://github.com/jp-knj/)
 
-### 😆 Status
+#### 😆 Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jp-knj&show_icons=true&theme=cobalt"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jp-knj&count_private=true&show_icons=true&theme=maroongold"/>
 </a>
