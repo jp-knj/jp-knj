@@ -4,12 +4,14 @@
 tech: TypeScript( React, Vue, Next.js, Nuxt.js)
 
 #### 📘 See more
-- Twitter - [@jp_knj](https://twitter.com/jp_knj)  
-- Zenn - [@ignorant_kenji](https://zenn.dev/ignorant_kenji)
+- Twitter : [@jp_knj](https://twitter.com/jp_knj)  
+- Zenn : [@ignorant_kenji](https://zenn.dev/ignorant_kenji)
 
+#### 🛠️ Make this
+- The first application I made using JavaScript : [GridMan](https://github.com/jp-knj/GridMan)
+- The first application I made using React/Redux : [budget-app](https://github.com/jp-knj/budget-app)
 
 #### 🏆 Trophy  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=jp-knj&theme=gruvbox&column=7&margin-w=15)](https://github.com/jp-knj/)
 
 #### 😆 Status
