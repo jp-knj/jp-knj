@@ -10,6 +10,7 @@ tech: TypeScript( React, Vue, Next.js, Nuxt.js)
 #### 🛠️ Make this
 - The first application I made using JavaScript : [GridMan](https://github.com/jp-knj/GridMan)
 - The first application I made using React/Redux : [budget-app](https://github.com/jp-knj/budget-app)
+- The first npm package: [assert-util-type](https://github.com/knj-labo/assert-util-type)
 
 #### 🏆 Trophy  
 [![trophy](https://github-profile-trophy.vercel.app/?username=jp-knj&theme=gruvbox&column=7&margin-w=15)](https://github.com/jp-knj/)
