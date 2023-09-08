@@ -1,7 +1,7 @@
 ## Introduce myself
 🐥 Kenji Tomita 
 
-tech: TypeScript( React, Next.js)
+Tech: TypeScript(React, Next.js), JavaScript(Vue2), Ruby on Rails
 
 #### 📘 See more
 - Twitter : [@jp_knj](https://twitter.com/jp_knj)  
