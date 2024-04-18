@@ -12,6 +12,10 @@ Tech: TypeScript(React, Next.js), JavaScript(Vue2), Ruby on Rails
 - The first application I made using React/Redux : [budget-app](https://github.com/jp-knj/budget-app)
 - The first npm package: [assert-util-type](https://github.com/knj-labo/assert-util-type)
 
+#### OSS
+- React / translation from en to jp
+https://github.com/reactjs/ja.react.dev/pulls?q=author%3Ajp-knj
+
 #### 🏆 Trophy  
 [![trophy](https://github-profile-trophy.vercel.app/?username=jp-knj&theme=gruvbox&column=7&margin-w=15)](https://github.com/jp-knj/)
 
@@ -19,3 +23,4 @@ Tech: TypeScript(React, Next.js), JavaScript(Vue2), Ruby on Rails
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jp-knj&count_private=true&show_icons=true&theme=maroongold"/>
 </a>
+
