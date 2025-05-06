@@ -14,6 +14,7 @@ Tech: TypeScript(React, Next.js), JavaScript(Vue2), Ruby on Rails
 
 #### OSS
 - React / translation from en to jp : [ja.react.dev](https://github.com/reactjs/ja.react.dev/pulls?q=author%3Ajp-knj)
+- Astro : [contribute to withastro](https://astro.badg.es/contributor/jp-knj/)
 
 #### 🏆 Trophy  
 [![trophy](https://github-profile-trophy.vercel.app/?username=jp-knj&theme=gruvbox&column=7&margin-w=15)](https://github.com/jp-knj/)
