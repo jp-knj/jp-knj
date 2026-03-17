@@ -13,6 +13,3 @@ Design-minded full-stack engineer building delightful web experiences
   <https://astro.badg.es/contributor/jp-knj/>
 - **React (ja.react.dev)** – English → Japanese translation PRs  
   <https://github.com/reactjs/ja.react.dev/pulls?q=author%3Ajp-knj>  
-
-#### 🏆 Trophy  
-[![trophy](https://github-profile-trophy.vercel.app/?username=jp-knj&theme=gruvbox&column=7&margin-w=15)](https://github.com/jp-knj/)
