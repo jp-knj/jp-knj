@@ -1,5 +1,5 @@
 ## Introduce myself
-🐥 Kenji Tomita 
+🐥 Kenji Wu
 
 Design-minded full-stack engineer building delightful web experiences
 
