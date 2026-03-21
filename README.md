@@ -6,7 +6,7 @@ Design-minded full-stack engineer building delightful web experiences
 #### 🌱 About&nbsp;Me
 - 🎨  Passionate about UI/UX, accessibility, and clean component architecture
 - 🌍  OSS contributor and technical writer (English ⇄ Japanese)
-- 🎧  Currently leveling-up my spoken English (aiming for IELTS 7.0 +)
+- 🎧  Currently leveling-up my spoken English
 
 #### 🤝 Open Source Contributions
 - **Astro** – Core docs & code contributions  
