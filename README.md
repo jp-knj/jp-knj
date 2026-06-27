@@ -15,12 +15,6 @@ I maintain [Astro](https://github.com/withastro/astro) and founded [Astro Japan 
 
 ---
 
-### Astro
-
-[![@jp-knj Astro contributions](https://astro.badg.es/v2/contributor/jp-knj.svg)](https://astro.badg.es/contributor/jp-knj/)
-
----
-
 ### Talks
 
 `2026 · Mar` &nbsp;[Astro Islands internals — Vue.js Japan User Group](https://vuejs-meetup.connpass.com/event/385025/)<br>
