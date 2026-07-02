@@ -4,8 +4,6 @@ I maintain [Astro](https://github.com/withastro/astro) and founded [Astro Japan 
 
 ---
 
-### Design
-
 <table>
   <tr>
     <td width="50%"><img width="1620" height="1100" alt="icon" src="https://github.com/user-attachments/assets/30541cb8-62dd-4d75-be27-c3793dfea9c2" /></td>
